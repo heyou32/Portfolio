@@ -11,11 +11,6 @@
     Gulp and send to the /css folder which is then loaded on the page.
     
     */
-
-p{color:#3498db;} p{color:#217dbb;} p{color:#a0cfee}
-p{color:#efc9ff;} p{color:#BF97E9;} p{color:#F1E4FF}
-
-
     body{font-family:'Lato', sans-serif;font-size:16px}body.active{overflow:hidden;z-index:-1}.no-js 
 #experience-timeline>div{background:#fff;padding:10px;margin-bottom:10px;border:1px solid #dcd9d9}.no-js 
 #experience-timeline>div h3{font-size:1.5em;font-weight:300;color:#374054;display:inline-block;margin:0}.no-js 
