@@ -11,9 +11,9 @@
     Gulp and send to the /css folder which is then loaded on the page.
     
     
+    */
     p{color:#3498db;} p{color:#217dbb;} p{color:#a0cfee}
     p{color:#CA97E9;} p{color:#BF97E9;} p{color:#F1E4FF}
-    */
 
 
     body{font-family:'Lato', sans-serif;font-size:16px}body.active{overflow:hidden;z-index:-1}.no-js 
